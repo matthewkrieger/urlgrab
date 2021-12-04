@@ -1,4 +1,4 @@
-module urlgrab
+module github.com/matthewkrieger/urlgrab
 
 go 1.14
 
